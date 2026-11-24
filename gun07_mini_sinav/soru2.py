@@ -21,3 +21,5 @@ while True:
                 toplam += nt
 
             print(ortalama(toplam, adet))
+
+#finish
