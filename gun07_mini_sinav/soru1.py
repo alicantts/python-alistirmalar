@@ -20,7 +20,7 @@ def ortalama(toplam, adet):
 
 n = int(input("Kaç adet not girilecek?: "))
 adet = n
-toplam = 0
+toplam = 0 
 
 
 if n == 0:
@@ -40,3 +40,6 @@ else:
             toplam += nt
 
         print(ortalama(toplam, adet))
+
+        #finish
+        
