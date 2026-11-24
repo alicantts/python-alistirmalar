@@ -14,3 +14,5 @@ def rakamlar_toplami(sayi):
 
 sayi = int(input("Sayi giriniz: "))
 print(rakamlar_toplami(sayi))
+
+#finish
